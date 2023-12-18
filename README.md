@@ -1,2 +1,2 @@
-# init-expres-ts
-Express init project typescript
+# express-js-for-dummy
+Express js for Dummy Man
